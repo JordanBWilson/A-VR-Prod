@@ -19,6 +19,6 @@ export class AppComponent {
 
   // git publish commands
   // update the git config file. the path... '<project_root>/.git/config'
-  // add something to the effect of url = https://JordanBWilson:Hungary69@github.com/JordanBWilson/A-VR.git
-  // ng build --prod --base-href "/A-VR-prod/"
-  // npx ngh --name="JordanBWilson" --email=jordanblairwilson@gmail.com --no-silent --dir=dist/A-VR-prod
+  // add something to the effect of url = https://JordanBWilson:Hungary69@github.com/JordanBWilson/A-VR-Prod.git
+  // ng build --prod --base-href "/A-VR-Prod/"
+  // npx ngh --name="JordanBWilson" --email=jordanblairwilson@gmail.com --no-silent --dir=dist/A-VR-Prod
